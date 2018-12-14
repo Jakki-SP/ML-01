@@ -1,1 +1,1 @@
-# ODS-MLCOURSE
+# ML-Practice
